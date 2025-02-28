@@ -4,4 +4,4 @@ It selects the algos that we use and it also selects the broker, broker code, tr
 
 The result is a well formatted file that gets uploaded to our OEMS platform (Enfusion) and all trades get transmitted to Morgan Stanley in bulk after they pass the pre-trade compliance checks.
 
-I am not including the input files for the sake of confidentiality.
+I am not including any input files due to confidentiality.
